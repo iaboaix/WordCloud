@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="source">
+    <file>cloud.png</file>
+    <file>loading.gif</file>
+    <file>wordcloud.ico</file>
+  </qresource>
+</RCC>
